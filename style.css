@@ -1,6 +1,6 @@
 Estilizar a cor de fundo do seu site como o css
 body{
-background-color:royalblue
+background-color:#e8ff1c
 }
 
 Estilizar o título principal do seu site
@@ -12,8 +12,8 @@ background:aqua ;
 
 
 p{
-color:red ;
+color:rgb(255, 55, 55) ;
 font-family:Arial, Helvetica, sans-serif ;
 font-size:small ;
-background:blueviolet ;
+background:rgb(28, 255, 225) ;
 }
