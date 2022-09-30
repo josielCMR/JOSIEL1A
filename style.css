@@ -1,4 +1,19 @@
-p {
-color:darkblue;
-text-align:center;
+Estilizar a cor de fundo do seu site como o css
+body{
+background-color:royalblue
+}
+
+Estilizar o título principal do seu site
+ h1{
+color: green;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background:aqua ;
+}
+
+
+p{
+color:red ;
+font-family:Arial, Helvetica, sans-serif ;
+font-size:small ;
+background:blueviolet ;
 }
