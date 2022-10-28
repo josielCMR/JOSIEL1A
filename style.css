@@ -1,6 +1,6 @@
 
 body{animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
-background-color:rgb(59, 255, 164);
+background-color:rgb(204, 92, 0);
 }
 
 
@@ -15,5 +15,5 @@ p{
 color:rgb(255, 231, 17)
 font-famili:brown,crimson ;
 font-size:30px ;
-background:-moz-any-link;
+background:-ms-lang(address);
 }
